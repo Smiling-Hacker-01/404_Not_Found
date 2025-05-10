@@ -1,7 +1,7 @@
 # MedBuddy
 # SDG: Good Health and Well Being
 Problem Statement: Connecting Urban Doctor's with Rural Village people who do not have access to quality consulation.
-
+expo-env.d.ts This file contains the screen records of the app being run on Expo Go SDK 52 Version
 MedBuddy is a **React Native (Expo)** mobile application designed to securely store and manage personal medical information and connect doctors in urban areas with people in rural areas. It helps users to connect to doctors who can easily track their patient's medical history, prescriptions, doctor consultations and health metrics efficiently.
 
 ## 📌 Features

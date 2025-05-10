@@ -1,12 +1,14 @@
 # MedBuddy
+# SDG: Good Health and Well Being
+Problem Statement: Connecting Urban Doctor's with Rural Village people who do not have access to quality consulation.
 
-MedBuddy is a **React Native (Expo)** mobile application designed to securely store and manage personal medical information offline. It helps users track their medical history, prescriptions, doctor consultations, and health metrics efficiently.
+MedBuddy is a **React Native (Expo)** mobile application designed to securely store and manage personal medical information and connect doctors in urban areas with people in rural areas. It helps users to connect to doctors who can easily track their patient's medical history, prescriptions, doctor consultations and health metrics efficiently.
 
 ## 📌 Features
 
 - **User Profile Management** (Name, Phone, Email, Date of Birth, etc.)
-- **Doctor Consultation History**
-- **Prescription & Medicine Tracking along with alarm feature reminders (OCR for handwritten prescriptions)**
+- **Doctor Consultation**
+- **Prescription & Medicine Tracking along with alarm feature reminders (OCR for handwritten prescriptions text analysis)**
 - **Medical Conditions & Disease Logging**
 - **Allergy Records & Immunization Tracking**
 - **Health Metrics Storage** (Blood Pressure, Pulse, etc.)
@@ -33,7 +35,7 @@ MedBuddy is a **React Native (Expo)** mobile application designed to securely st
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/Smiling-Hacker-01/MedBuddy.git
+   git clone https://github.com/Smiling-Hacker-01/404_Not_Found.git
    cd MedBuddyFinal
    ```
 
@@ -61,9 +63,9 @@ Feel free to submit issues or pull requests to improve MedBuddyFinal!
 
 ## 📧 Contact
 
-For queries or collaborations, reach out to **Smiling-Hacker-01** via GitHub or email.
+For queries or collaborations, reach out to **mdkaif11894@gmail.com** email.
 
 ---
 
-**Developed with ❤️ using React Native & Firebase**
+**Developed using React Native & Firebase**
 
